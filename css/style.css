@@ -129,7 +129,7 @@ a {
 /* HERO */
 
 .hero {
-    background-image: url(layout/img/hero_bg.jpg);
+    background-image: url(/layout/img/hero_bg.jpg);
     background-repeat: no-repeat;
     background-position: 0 -71px;
     background-size: cover;
@@ -226,7 +226,7 @@ a {
 
 .picture-block {
     padding-bottom: 600px;
-    background-image: url(layout/img/picture-block_bg.jpg);
+    background-image: url(/layout/img/picture-block_bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
