@@ -236,7 +236,7 @@ a {
 
 .picture-block {
     padding-bottom: 600px;
-    background-image: url(/layout/img/picture-block_bg.jpg);
+    background-image: url(../img/picture-block_bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
