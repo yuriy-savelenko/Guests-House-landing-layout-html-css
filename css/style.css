@@ -133,7 +133,7 @@ a {
 /* HERO */
 
 .hero {
-    background-image: url(https://github.com/yuriy-savelenko/Guests-House-landing-layout-html-css/blob/master/img/hero_bg.jpg);
+    background-image: url(../img/hero_bg.jpg);
     background-repeat: no-repeat;
     background-position: 0 -71px;
     background-size: cover;
